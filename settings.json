@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 120000,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "boss abrar",
         "I like to play Minecraft!"
       ]
     },
